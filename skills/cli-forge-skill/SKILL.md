@@ -1,6 +1,6 @@
 ---
 name: cli-forge-skill
-description: Builds a complete, ship-ready Go CLI for an API using Cobra, engineered for stable machine-readable output that AI models, scripts, and pipelines can consume. Use this whenever the user wants to turn an API, OpenAPI spec, or REST endpoint into a command-line tool — even if they phrase it as "build a CLI for X", "create a Go CLI", "wrap this API for the terminal", or "a CLI with --json output an AI can read". Standalone: requires only the Go toolchain, no external generator binary.
+description: "Builds a complete, ship-ready Go CLI for an API using Cobra, engineered for stable machine-readable output that AI models, scripts, and pipelines can consume. Use this whenever the user wants to turn an API, OpenAPI spec, or REST endpoint into a command-line tool — even if they phrase it as \"build a CLI for X\", \"create a Go CLI\", \"wrap this API for the terminal\", or \"a CLI with --json output an AI can read\". Standalone: requires only the Go toolchain, no external generator binary."
 version: 1.0.0
 license: MIT
 compatibility: go
